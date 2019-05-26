@@ -6,6 +6,6 @@ Hosted by Waterloo Engineering, the Waterloo High School Electric Vehicle (EV) C
 
 [https://uwaterloo.ca/electric-vehicle-challenge/](https://uwaterloo.ca/electric-vehicle-challenge/)
 
-### Joint our team
+### Joint our club
 
-Sign in with your GitHub account and comment on this issue [How to join EVClubSTR?](https://github.com/evclubstr/evclubstr.github.io/issues/1 "Join EVClubSTR Team") with your bio and preffered teams: 
+Sign in with your GitHub account and comment on this issue [How to join EVClubSTR?](https://github.com/evclubstr/evclubstr.github.io/issues/1 "Join EVClubSTR Team") with your bio and preffered team names
