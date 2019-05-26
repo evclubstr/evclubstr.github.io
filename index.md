@@ -8,4 +8,4 @@ https://uwaterloo.ca/electric-vehicle-challenge/
 
 ### Joint our team
 
-Sign in with your GitHub account and comment on this issue with your bio and preffered teams: https://github.com/evclubstr/evclubstr.github.io/issues/1
+Sign in with your GitHub account and comment on this issue with your bio and preffered teams: [Join the team|https://github.com/evclubstr/evclubstr.github.io/issues/1]
