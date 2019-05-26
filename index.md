@@ -8,4 +8,4 @@ Hosted by Waterloo Engineering, the Waterloo High School Electric Vehicle (EV) C
 
 ### Joint our team
 
-Sign in with your GitHub account and comment on this issue with your bio and preffered teams: [Join the team](https://github.com/evclubstr/evclubstr.github.io/issues/1 "Join EVClubSTR Team")
+Sign in with your GitHub account and comment on this issue [How to join EVClubSTR?](https://github.com/evclubstr/evclubstr.github.io/issues/1 "Join EVClubSTR Team") with your bio and preffered teams: 
