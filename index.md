@@ -15,4 +15,5 @@ Sign in with your GitHub account and comment on this issue [How to join EVClubST
 [Instagram](https://www.instagram.com/evclubstr2020/)
 [Facebook](https://www.facebook.com/evclubstr2019/)
 [Twitter](https://twitter.com/EVClubSTR2019)
+[Google Classroom](https://classroom.google.com/u/1/c/NDQzNTcxODA1MjNa)
 
